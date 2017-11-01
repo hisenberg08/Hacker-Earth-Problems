@@ -4,9 +4,9 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Hashtable;
 
-/*Above problem was there in hacker rank performance optimisation competition. It aimed at finding the count
+/*Above problem was there in hacker rank performance optimization competition. It aimed at finding the count
  * of max element in an array.
- * Commented code is the on was given to be optmized.
+ * Commented code is the on was given to be optimized.
  * 
  * The run time of uncommented code(my code) could be improved
  * of we could convert Integer array to int array*/
