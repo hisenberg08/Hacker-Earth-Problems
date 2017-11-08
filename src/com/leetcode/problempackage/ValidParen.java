@@ -15,7 +15,7 @@ public class ValidParen {
 	
 	public static void main(String[] args) {
 		
-		System.out.println(checkString("(["));
+		System.out.println(checkString("[([])[{[]()}]{()}]"));
 		
 	}
 	
