@@ -1,6 +1,8 @@
 package com.leetcode.problempackage;
 
-/*Solution to problem 35 leetcode: Search Insertion position*/
+/*Solution to problem 35 leetcode: Search Insertion position
+ * Since it is a simple binary search algorithm it takes (logn) time.*/
+
 public class SearchInsertionPosition {
 
 	public static void main(String[] args) {
