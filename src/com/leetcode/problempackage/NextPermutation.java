@@ -7,7 +7,7 @@ public class NextPermutation {
 	public static void main(String[] args) {
 		
 		NextPermutation np = new NextPermutation();
-		int [] nums = {0,1,1,2};
+		int [] nums = {7,9,1,2,8,6,3};
 		nums = np.nextPermutation(nums);
 		for(int n:nums) System.out.print(n + " ");
 	}
